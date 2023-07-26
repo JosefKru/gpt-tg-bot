@@ -40,6 +40,7 @@ npm start
 
 ## Связаться со мной 📧
 
-- [Мой telegram](https://t.me/josefKru)
-- [Мой профиль LinkedIn](https://www.linkedin.com/in/ivan-alyakin-976842243/)
+- Мое портфолио: [https://alyakin.art](https://alyakin.art)
+- Мой telegram: [@josefKru](https://t.me/josefKru)
+- Мой профиль LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivan-alyakin-976842243/)
 - Электронная почта: josefkaru@gmail.com
